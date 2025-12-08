@@ -1,7 +1,8 @@
 <br />
 
 <div align="center">
-   <img src='![Logo - SURE ProEd](https://github.com/user-attachments/assets/26470fb8-d77e-4fe7-a183-84cc75de445f)' />
+   <img src='<img width="1563" height="1563" alt="Logo - SURE ProEd" src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721" />
+' />
 
 
 <h3 align="center">SURE ProEd (SURE Trust) - Skill Upgradation for Rural-youth Empowerment Trust</h3>
