@@ -48,6 +48,24 @@
 
 ---
 
+## **Project Overview**
+
+
+<!-- you can add title of the section/heading inside [] . inside () add heading after # and use - instead of space inside () -->
+
+<!-- eg. - [Introduction of Project ](#introduction-of-project)-->
+
+- [Learnings from LST & SST ](#learnings-from-lst-and-sst)
+- [Community Services](#community-services)
+- [Certificate](#certificate)
+- [Acknowledgments](#acknowledgments)
+- [Refrences](#references)
+
+
+---
+## **Learnings from LST and SST**
+<!-- add your experiences over here -->
+---
 ## **Community Services**
 
 <!-- add descreption in your own words -->
@@ -100,7 +118,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below -->
+<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - SURE Trust
 
