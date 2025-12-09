@@ -29,7 +29,7 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h2 style="color:#333;"> Course Detail</h2>
+<h2 style="color:#333;"> Course Details</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Name:</strong> <!--- Add your course name---> </p>
     <p><strong>Instructor:</strong> <!--- Add your instructor name---> </p>
