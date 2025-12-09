@@ -85,13 +85,13 @@ During my internship period, I participated in multiple community-oriented activ
 
 ---
 
-## 9. Certificate
+## **Certificate**
 
 The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
 
-### Certificate Preview
+### **Certificate Preview**
 
 <!-- add your certificate image url below -->
 
-<img src="https://gemini.google.com/share/c5a434f81e21" alt="Internship Certificate" width="700px">
+<img src="https://res.cloudinary.com/dkvipeywg/image/upload/Gemini_Generated_Image_a6w8rda6w8rda6w8_1_xo0wcq.png" alt="Internship Certificate" width="700px">
 
