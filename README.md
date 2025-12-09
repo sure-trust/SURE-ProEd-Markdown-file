@@ -17,25 +17,6 @@
 
 ---
 
-<h2>Student Details</h2>
-
-* <h4>Name: </h4>  <!--- Edit your name ---->
-* <h4>Phone No:</h4> <!-- Add your number --->
-* <h4>Email:</h4> <!--- Add mail id --->
-
-<h2>Course Joined</h2>
-
-* <h4>Course Name:</h4>
-* <h4>Instructor:</h4>
-
-<h2>Duration</h2>
-
-* <h4>Start Date:</h4>
-* <h4>End Date:</h4>
-* <h4>Total Duration:</h4>
-
-<!-- Full GitHub-friendly HTML Block Template -->
-
 <div align="center" style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
 ```
