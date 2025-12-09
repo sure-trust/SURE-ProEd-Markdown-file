@@ -15,13 +15,11 @@
   <h2 style="color: #2b6cb0; font-family: Arial;">COURSE NAME</h2>
 </div>
 
----
 
 <div align="center" style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-```
-<h1 style="color:#333;">📘 Student Details</h1>
-<div align="left" style="margin: 20px; font-size: 16px;">
+<h1 style = "color:#333;">📘 Student Details </h1>
+<div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> ______________________</p>
     <p><strong>Student ID:</strong> ______________________</p>
     <p><strong>Email:</strong> ______________________</p>
@@ -46,7 +44,6 @@
     <p><strong>End Date:</strong> ______________________</p>
     <p><strong>Total Duration:</strong> ______________________</p>
 </div>
-```
 
 </div>
 
