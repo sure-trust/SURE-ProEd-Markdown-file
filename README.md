@@ -35,8 +35,6 @@
     <p><strong>Instructor:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Start Date:</strong> <!--- Starting date of course (yyyy-mm-dd)--> </p>
-    <p><strong>End Date:</strong> <!--- ending date of course (yyyy-mm-dd)---> </p>
     <p><strong>Total Duration:</strong> <!--- Durations in months---> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
