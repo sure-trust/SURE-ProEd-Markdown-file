@@ -31,9 +31,9 @@
 
 ## Student Details
 
-* **Name:** <!---Edit your name---->
-* **Phone No:**  <!--Add your number--->
-* **Email:**   <!--- Add mail id--->
+* **Name:** # <!---Edit your name---->
+* **Phone No:** # <!--Add your number--->
+* **Email:**  # <!--- Add mail id--->
 
 ## Course Joined
 
