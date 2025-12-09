@@ -1,4 +1,3 @@
-
 <div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
     <img
         width="180"
@@ -14,7 +13,6 @@
 
   <h2 style="color: #2b6cb0; font-family: Arial;">COURSE NAME</h2>
 </div>
-
 
 <div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
@@ -48,8 +46,6 @@
 
 <!-- End of block -->
 
-
-
 ---
 
 ## **Community Services**
@@ -59,13 +55,13 @@
 During my internship period, I participated in multiple community-oriented activities aimed at social welfare and environmental improvement. These experiences helped me develop empathy, teamwork, and a sense of responsibility toward society.
 
 ### **Activities Involved**
+
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed.
 
-
-
 <!-- you can write impacts according to your experience in your words-->
+
 ### **Impact / Contribution**
 
 - Helped create a supportive environment during the blood donation camp.
@@ -78,10 +74,13 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line --> 
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="60%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="60%">
+- These are just placeholder (sample) images <!-- remove this line -->
+
+<p align="center">
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="60%"><br>
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="60%"><br>
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="60%">
+</p>
 
 ---
 
@@ -93,5 +92,6 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 <!-- add your certificate image url below (inside src='')-->
 
+<p align="center">
 <img src="https://res.cloudinary.com/dkvipeywg/image/upload/Gemini_Generated_Image_a6w8rda6w8rda6w8_1_xo0wcq.png" alt="Internship Certificate" width="80%">
-
+</p>
