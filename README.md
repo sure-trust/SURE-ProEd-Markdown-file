@@ -14,32 +14,32 @@
   <h2 style="color: #2b6cb0; font-family: Arial;">COURSE NAME</h2>
 </div>
 
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
 <div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-<h2 style = "color:#333;">📘 Student Details </h2>
+<h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> <!--- Add your name---> </p>
     <p><strong>Email:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>Phone:</strong> <!--- Add your phonr num---> </p>
+    <p><strong>Phone:</strong> <!--- Add your phone num---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h2 style="color:#333;">🎓 Course Joined</h2>
+<h2 style="color:#333;"> Course Joined</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Name:</strong> ______________________</p>
-    <p><strong>Instructor:</strong> ______________________</p>
-    <p><strong>Mode:</strong> Online / Offline / Hybrid</p>
-    <p><strong>Course Code:</strong> ______________________</p>
+    <p><strong>Course Name:</strong> <!--- Add your course name---> </p>
+    <p><strong>Instructor:</strong> <!--- Add your instructor name---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h2 style="color:#333;">⏳ Duration</h2>
+<h2 style="color:#333;"> Duration</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Start Date:</strong> ______________________</p>
-    <p><strong>End Date:</strong> ______________________</p>
-    <p><strong>Total Duration:</strong> ______________________</p>
+    <p><strong>Start Date:</strong> <!--- Starting date of course (yyyy-mm-dd)--> </p>
+    <p><strong>End Date:</strong> <!--- ending date of course (yyyy-mm-dd)---> </p>
+    <p><strong>Total Duration:</strong> <!--- Durations in months---> </p>
 </div>
 
 </div>
