@@ -48,19 +48,32 @@
 
 <p><strong>Trainer Name:</strong> &lt;!–– Add trainer name ––&gt;</p>
 <p><strong>Trainer Email:</strong> &lt;!–– Add trainer email ––&gt;</p>
-<p><strong>Trainer Contact:</strong> &lt;!–– Add phone / contact ––&gt;</p>
 <p><strong>Trainer Designation:</strong> &lt;!–– Add designation ––&gt;</p>
+<p><strong>Trainer GitHub:</strong> &lt;!–– Add trainer gitHub ––&gt;</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+## Course Learning (To Be Edited by Student)
+
+> _This is a placeholder. Replace the text below with your personal learning summary._
+During this course, I learned the fundamentals of web development and project design.
+I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
+problem-solving, teamwork, documentation, and delivering real-world project solutions.
+
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Project 1:</strong> &lt;!–– Add project title ––&gt;</p>
-<p><strong>Project 2:</strong> &lt;!–– Add project title ––&gt;</p>
-<p><strong>Project 3:</strong> &lt;!–– Add project title ––&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+
+<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
+
+</div>
+
 
 ## <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -88,25 +101,43 @@
 
 ---
 
-### **Project Introduction**
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
-Describe the project briefly here.
+<!-- Project 1 -->
+<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<p>
+  This project involved designing and developing a basic functional module using the core concepts taught in the course.
+  It focused on understanding requirements, creating structured code, and implementing key features.
+</p>
+<p>
+  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+</p>
 
-### **Technologies Used**
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
-List technologies used in the project.
+<!-- Project 2 -->
+<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<p>
+  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
+  It enhanced understanding of UI/UX design, modular coding, and testing.
+</p>
+<p>
+  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+</p>
 
-### **Roles and Responsibilities**
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
-Explain your duties and contribution.
+<!-- Project 3 -->
+<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
+<p>
+  The final project showcased the practical application of all concepts learned throughout the course.  
+  It required planning, building, optimizing, and documenting a complete real-world project.
+</p>
+<p>
+  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+</p>
 
-### **Outcome / Result**
-
-Explain what the project achieved.
-
-### **Project Report**
-
-Add link to full project report (PDF or GitHub repo).
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 ---
 
