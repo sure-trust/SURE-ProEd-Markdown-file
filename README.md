@@ -7,11 +7,11 @@
         style="border-radius: 10px;"
     />
 
-  <h3 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (SURE Trust) - Skill Upgradation for Rural youth Empowerment Trust</h3>
+  <h2 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (SURE Trust) - Skill Upgradation for Rural youth Empowerment Trust</h3>
 
   <!-- EDIT YOUR COURSE NAME -->
 
-  <h2 style="color: #2b6cb0; font-family: Arial;">COURSE NAME</h2>
+  <h3 style="color: #2b6cb0; font-family: Arial;">COURSE NAME</h2>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
