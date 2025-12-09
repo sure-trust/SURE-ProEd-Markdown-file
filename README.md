@@ -22,20 +22,18 @@
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> <!--- Add your name---> </p>
     <p><strong>Email:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>Phone:</strong> <!--- Add your phone num---> </p>
+    <p><strong>College:</strong> <!--- Add your college name---> </p>
+    <p><strong>Branch:</strong> <!--- Add your branch name---> </p>
+    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h2 style="color:#333;"> Course Joined</h2>
+<h2 style="color:#333;"> Course Detail</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Name:</strong> <!--- Add your course name---> </p>
     <p><strong>Instructor:</strong> <!--- Add your instructor name---> </p>
 </div>
-
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
-
-<h2 style="color:#333;"> Duration</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Start Date:</strong> <!--- Starting date of course (yyyy-mm-dd)--> </p>
     <p><strong>End Date:</strong> <!--- ending date of course (yyyy-mm-dd)---> </p>
@@ -50,6 +48,8 @@
 <p><strong>Trainer Email:</strong> &lt;!–– Add trainer email ––&gt;</p>
 <p><strong>Trainer Designation:</strong> &lt;!–– Add designation ––&gt;</p>
 <p><strong>Trainer GitHub:</strong> &lt;!–– Add trainer gitHub ––&gt;</p>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
 - [Course Learning](#course-learning-to-be-edited-by-student)
