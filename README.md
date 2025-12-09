@@ -34,6 +34,42 @@
 * <h4>End Date:</h4>
 * <h4>Total Duration:</h4>
 
+<!-- Full GitHub-friendly HTML Block Template -->
+
+<div align="center" style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
+
+```
+<h1 style="color:#333;">📘 Student Details</h1>
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Name:</strong> ______________________</p>
+    <p><strong>Student ID:</strong> ______________________</p>
+    <p><strong>Email:</strong> ______________________</p>
+    <p><strong>Phone:</strong> ______________________</p>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h1 style="color:#333;">🎓 Course Joined</h1>
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Course Name:</strong> ______________________</p>
+    <p><strong>Instructor:</strong> ______________________</p>
+    <p><strong>Mode:</strong> Online / Offline / Hybrid</p>
+    <p><strong>Course Code:</strong> ______________________</p>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h1 style="color:#333;">⏳ Duration</h1>
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Start Date:</strong> ______________________</p>
+    <p><strong>End Date:</strong> ______________________</p>
+    <p><strong>Total Duration:</strong> ______________________</p>
+</div>
+```
+
+</div>
+
+<!-- End of block -->
 
 
 
