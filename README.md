@@ -16,19 +16,18 @@
 </div>
 
 
-<div align="center" style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
+<div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-<h1 style = "color:#333;">📘 Student Details </h1>
+<h2 style = "color:#333;">📘 Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> ______________________</p>
-    <p><strong>Student ID:</strong> ______________________</p>
-    <p><strong>Email:</strong> ______________________</p>
-    <p><strong>Phone:</strong> ______________________</p>
+    <p><strong>Name:</strong> <!--- Add your name---> </p>
+    <p><strong>Email:</strong> <!--- Add your mail id ---> </p>
+    <p><strong>Phone:</strong> <!--- Add your phonr num---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h1 style="color:#333;">🎓 Course Joined</h1>
+<h2 style="color:#333;">🎓 Course Joined</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Name:</strong> ______________________</p>
     <p><strong>Instructor:</strong> ______________________</p>
@@ -38,7 +37,7 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h1 style="color:#333;">⏳ Duration</h1>
+<h2 style="color:#333;">⏳ Duration</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Start Date:</strong> ______________________</p>
     <p><strong>End Date:</strong> ______________________</p>
