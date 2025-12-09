@@ -62,7 +62,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
-<<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 <!-- Project 1 -->
 <h3 id="project1">Project 1: <!-- Add Project Title --></h3>
