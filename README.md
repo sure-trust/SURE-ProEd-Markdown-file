@@ -51,7 +51,21 @@
 <p><strong>Trainer Designation:</strong> &lt;!–– Add designation ––&gt;</p>
 <p><strong>Trainer GitHub:</strong> &lt;!–– Add trainer gitHub ––&gt;</p>
 
+## **Table of Contents**
+- [Course Learning](#course-learning-to-be-edited-by-student)
+- [Projects Completed](#projects-completed)
+- [Project Introduction](#project-introduction)
+- [Technologies Used](#technologies-used)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [Outcome / Result](#outcome--result)
+- [Project Report](#project-report)
+- [Learnings from LST & SST](#learnings-from-lst--sst)
+- [Community Services](#community-services)
+- [Certificate](#certificate)
+- [Acknowledgments](#acknowledgments)
+
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
 
 ## Course Learning (To Be Edited by Student)
 
@@ -120,21 +134,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!--you can add refrences over here in same syntax as above -->
 ---
 
-## **Table of Contents**
 
-<!-- you can add title of the section/heading inside [] . inside () add heading after # and use - instead of space inside () -->
-
-<!-- eg. - [Introduction of Project ](#introduction-of-project)-->
-
-- [Project Introduction](#Project-Introduction)
-- [Technologies Used](#Technologies-Used)
-- [Roles and Responsibilities](#Roles-and-Responsibilities)
-- [Outcome / Result](#Outcome--Result)
-- [Project Report](#Project-Report)
-- [Learnings from LST & SST ](#learnings-from-lst-and-sst)
-- [Community Services](#community-services)
-- [Certificate](#certificate)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
