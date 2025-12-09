@@ -93,5 +93,5 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
-<img src="https://res.cloudinary.com/dkvipeywg/image/upload/Gemini_Generated_Image_a6w8rda6w8rda6w8_1_xo0wcq.png" alt="Internship Certificate" width="80%">
+<img src="https://img.sanishtech.com/u/49eeb3961a816d32d894d94caa1522cd.png" alt="Internship Certificate" width="80%">
 </p>
