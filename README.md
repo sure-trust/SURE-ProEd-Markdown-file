@@ -59,7 +59,7 @@
 During my internship period, I participated in multiple community-oriented activities aimed at social welfare and environmental improvement. These experiences helped me develop empathy, teamwork, and a sense of responsibility toward society.
 
 ### **Activities Involved**
-- **Blood Donation Camp** – Donated blood and supported basic assistance tasks during the camp.
+- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed.
 
@@ -91,7 +91,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ### **Certificate Preview**
 
-<!-- add your certificate image url below -->
+<!-- add your certificate image url below (inside src='')-->
 
-<img src="https://res.cloudinary.com/dkvipeywg/image/upload/Gemini_Generated_Image_a6w8rda6w8rda6w8_1_xo0wcq.png" alt="Internship Certificate" width="700px">
+<img src="https://res.cloudinary.com/dkvipeywg/image/upload/Gemini_Generated_Image_a6w8rda6w8rda6w8_1_xo0wcq.png" alt="Internship Certificate" width="80%">
 
