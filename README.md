@@ -62,61 +62,67 @@
 
 <p><em>(You can add more projects as needed)</em></p>
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+## <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" /
 
-## **Project Overview**
-### **Table of Contents**
+## **References**
 
-<!-- You can add titles of sections/headings inside [] and inside () add heading after # 
-     Use - instead of space inside () -->
+- [Wikipedia](https://wikipedia.com)
+<!--you can add refrences over here in same syntax as above -->
+
+## **Table of Contents**
+
+<!-- you can add title of the section/heading inside [] . inside () add heading after # and use - instead of space inside () -->
+
+<!-- eg. - [Introduction of Project ](#introduction-of-project)-->
 
 - [Project Introduction](#Project-Introduction)
 - [Technologies Used](#Technologies-Used)
 - [Roles and Responsibilities](#Roles-and-Responsibilities)
 - [Outcome / Result](#Outcome--Result)
 - [Project Report](#Project-Report)
-
----
-
-### **Project Introduction**
-Describe the project briefly here.
-
-### **Technologies Used**
-List technologies used in the project.
-
-### **Roles and Responsibilities**
-Explain your duties and contribution.
-
-### **Outcome / Result**
-Explain what the project achieved.
-
-### **Project Report**
-Add link to full project report (PDF or GitHub repo).
-
-
-
-<!-- End of block -->
-
----
-
-### **Table of Contents**
-
-
-<!-- you can add title of the section/heading inside [] . inside () add heading after # and use - instead of space inside () -->
-
-<!-- eg. - [Introduction of Project ](#introduction-of-project)-->
-
 - [Learnings from LST & SST ](#learnings-from-lst-and-sst)
 - [Community Services](#community-services)
 - [Certificate](#certificate)
 - [Acknowledgments](#acknowledgments)
-- [Refrences](#references)
-
 
 ---
+
+### **Project Introduction**
+
+Describe the project briefly here.
+
+### **Technologies Used**
+
+List technologies used in the project.
+
+### **Roles and Responsibilities**
+
+Explain your duties and contribution.
+
+### **Outcome / Result**
+
+Explain what the project achieved.
+
+### **Project Report**
+
+Add link to full project report (PDF or GitHub repo).
+
+---
+
 ## **Learnings from LST and SST**
+
 <!-- add your experiences over here -->
+
+During the LST and SST sessions, I gained valuable technical and professional skills that strengthened my overall learning experience. The sessions helped me improve my problem-solving abilities, understand real-world applications of concepts, and build confidence in working independently.
+
+From the LST sessions, I learned how to approach tasks systematically, break down problems, and apply the right tools to complete assignments effectively. The guidance provided during these sessions helped me enhance my technical understanding and improve the quality of my project work.
+
+During the SST sessions, I developed important soft skills such as communication, teamwork, time management, and workplace discipline. These sessions helped me understand the importance of professional behavior, responsibility, and continuous learning.
+
+Overall, LST and SST together helped me grow both technically and personally, preparing me to handle projects and responsibilities more efficiently.
+
 ---
+
 ## **Community Services**
 
 <!-- add descreption in your own words -->
@@ -172,8 +178,3 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - SURE Trust
-
-## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
