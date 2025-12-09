@@ -74,7 +74,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
 
 <!-- Project 2 -->
 <h3 id="project2">Project 2: <!-- Add Project Title --></h3>
@@ -86,7 +86,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
 
 <!-- Project 3 -->
 <h3 id="project3">Project 3: <!-- Add Project Title --></h3>
