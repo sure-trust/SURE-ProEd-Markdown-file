@@ -62,7 +62,7 @@
 
 <p><em>(You can add more projects as needed)</em></p>
 
-## <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" /
+## <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **References**
 
@@ -178,3 +178,4 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - SURE Trust
+
