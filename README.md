@@ -29,11 +29,13 @@
 
 ---
 
-## Student Details
+<h2>Student Details</h2>
 
-* **Name:** # <!---Edit your name---->
-* **Phone No:** # <!--Add your number--->
-* **Email:**  # <!--- Add mail id--->
+<p>
+* <h4>Name: </h4> <!---Edit your name---->
+* <h4>Phone No:</h4> <!--Add your number--->
+* <h4>Email:</h4> <!--- Add mail id--->
+</p>
 
 ## Course Joined
 
