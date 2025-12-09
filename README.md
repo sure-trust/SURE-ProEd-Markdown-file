@@ -35,7 +35,7 @@
     <p><strong>Instructor:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Total Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
