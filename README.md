@@ -31,15 +31,14 @@
 
 ## Student Details
 
-* **Name:**
-* **ID:**
-* **Email:**
+* **Name:** <!---Edit your name---->
+* **Phone No:**  <!--Add your number--->
+* **Email:**   <!--- Add mail id--->
 
 ## Course Joined
 
 * **Course Name:**
 * **Instructor:**
-* **Mode:**
 
 ## Duration
 
