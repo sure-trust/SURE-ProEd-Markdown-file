@@ -55,3 +55,39 @@
 
 
 <!-- test commit -- >
+
+
+
+
+---
+
+## **Community Services**
+
+<!-- add descreption in your own words -->
+
+During my internship period, I participated in multiple community-oriented activities aimed at social welfare and environmental improvement. These experiences helped me develop empathy, teamwork, and a sense of responsibility toward society.
+
+### **Activities Involved**
+- **Blood Donation Camp** – Donated blood and supported basic assistance tasks during the camp.
+- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed.
+
+
+
+<!-- you can write impacts according to your experience in your words-->
+### **Impact / Contribution**
+
+- Helped create a supportive environment during the blood donation camp.
+- Actively participated in promoting a greener and cleaner surroundings.
+- Offered personal assistance to elder citizens, strengthening community bonds.
+- Improved skills in communication, coordination, and social responsibility.
+
+### **Photos**
+
+<!-- add your photos below -->
+<!-- change url below with your image urls (inside  src='')-->
+
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="60%">
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="60%">
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="60%">
+
