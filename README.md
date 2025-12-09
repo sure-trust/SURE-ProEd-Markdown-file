@@ -62,6 +62,38 @@
 
 <p><em>(You can add more projects as needed)</em></p>
 
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+## **Project Overview**
+### **Table of Contents**
+
+<!-- You can add titles of sections/headings inside [] and inside () add heading after # 
+     Use - instead of space inside () -->
+
+- [Project Introduction](#Project-Introduction)
+- [Technologies Used](#Technologies-Used)
+- [Roles and Responsibilities](#Roles-and-Responsibilities)
+- [Outcome / Result](#Outcome--Result)
+- [Project Report](#Project-Report)
+
+---
+
+### <a id="Project-Introduction"></a> **Project Introduction**
+Describe the project briefly here.
+
+### <a id="Technologies-Used"></a> **Technologies Used**
+List technologies used in the project.
+
+### <a id="Roles-and-Responsibilities"></a> **Roles and Responsibilities**
+Explain your duties and contribution.
+
+### <a id="Outcome--Result"></a> **Outcome / Result**
+Explain what the project achieved.
+
+### <a id="Project-Report"></a> **Project Report**
+Add link to full project report (PDF or GitHub repo).
+
+
 
 
 
