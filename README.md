@@ -44,10 +44,10 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> &lt;!–– Add trainer name ––&gt;</p>
-<p><strong>Trainer Email:</strong> &lt;!–– Add trainer email ––&gt;</p>
-<p><strong>Trainer Designation:</strong> &lt;!–– Add designation ––&gt;</p>
-<p><strong>Trainer GitHub:</strong> &lt;!–– Add trainer gitHub ––&gt;</p>
+<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Email:</strong> <!–– Add trainer email ––></p>
+<p><strong>Trainer Designation:</strong> <!–– Add designation ––></p>
+<p><strong>Trainer GitHub:</strong> <!–– Add trainer gitHub ––></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
