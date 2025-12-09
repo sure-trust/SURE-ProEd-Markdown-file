@@ -95,3 +95,16 @@ The internship certificate serves as an official acknowledgment of the successfu
 <p align="center">
 <img src="https://img.sanishtech.com/u/49eeb3961a816d32d894d94caa1522cd.png" alt="Internship Certificate" width="80%">
 </p>
+
+---
+
+## **Acknowledgments**
+
+<!-- you can add Acknowledgments over here in same syntax as below -->
+
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - SURE Trust
+
+## **References**
+
+- [Wikipedia](https://wikipedia.com)
+<!--you can add refrences over here in same syntax as above -->
