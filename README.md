@@ -62,46 +62,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
-<div align="left" style="margin: 20px; font-size: 16px;">
-
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
-
-</div>
-
-
-## <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
-
-## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
-
-## **Table of Contents**
-
-<!-- you can add title of the section/heading inside [] . inside () add heading after # and use - instead of space inside () -->
-
-<!-- eg. - [Introduction of Project ](#introduction-of-project)-->
-
-- [Project Introduction](#Project-Introduction)
-- [Technologies Used](#Technologies-Used)
-- [Roles and Responsibilities](#Roles-and-Responsibilities)
-- [Outcome / Result](#Outcome--Result)
-- [Project Report](#Project-Report)
-- [Learnings from LST & SST ](#learnings-from-lst-and-sst)
-- [Community Services](#community-services)
-- [Certificate](#certificate)
-- [Acknowledgments](#acknowledgments)
-
----
-
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+<<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 <!-- Project 1 -->
 <h3 id="project1">Project 1: <!-- Add Project Title --></h3>
@@ -139,7 +100,34 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
+
+
+
+## **References**
+
+- [Wikipedia](https://wikipedia.com)
+<!--you can add refrences over here in same syntax as above -->
 ---
+
+## **Table of Contents**
+
+<!-- you can add title of the section/heading inside [] . inside () add heading after # and use - instead of space inside () -->
+
+<!-- eg. - [Introduction of Project ](#introduction-of-project)-->
+
+- [Project Introduction](#Project-Introduction)
+- [Technologies Used](#Technologies-Used)
+- [Roles and Responsibilities](#Roles-and-Responsibilities)
+- [Outcome / Result](#Outcome--Result)
+- [Project Report](#Project-Report)
+- [Learnings from LST & SST ](#learnings-from-lst-and-sst)
+- [Community Services](#community-services)
+- [Certificate](#certificate)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+
 
 ## **Learnings from LST and SST**
 
