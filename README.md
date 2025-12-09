@@ -78,22 +78,20 @@
 
 ---
 
-### <a id="Project-Introduction"></a> **Project Introduction**
+### **Project Introduction**
 Describe the project briefly here.
 
-### <a id="Technologies-Used"></a> **Technologies Used**
+### **Technologies Used**
 List technologies used in the project.
 
-### <a id="Roles-and-Responsibilities"></a> **Roles and Responsibilities**
+### **Roles and Responsibilities**
 Explain your duties and contribution.
 
-### <a id="Outcome--Result"></a> **Outcome / Result**
+### **Outcome / Result**
 Explain what the project achieved.
 
-### <a id="Project-Report"></a> **Project Report**
+### **Project Report**
 Add link to full project report (PDF or GitHub repo).
-
-
 
 
 
@@ -101,7 +99,6 @@ Add link to full project report (PDF or GitHub repo).
 
 ---
 
-## **Project Overview**
 ### **Table of Contents**
 
 
