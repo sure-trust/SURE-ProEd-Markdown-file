@@ -126,7 +126,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <!-- add your experiences over here -->
 > _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-
+LST and SST sessions helped me....
 ---
 
 ## **Community Services**
