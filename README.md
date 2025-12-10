@@ -64,7 +64,7 @@
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 
-## Course Learning (To Be Edited by Student)
+## Course Learning 
 
 > _This is a placeholder. Replace the text below with your personal learning summary._
 During this course, I learned the fundamentals of web development and project design.
