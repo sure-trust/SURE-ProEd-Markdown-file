@@ -7,11 +7,9 @@
         style="border-radius: 10px;"
     />
 
-  <h2 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (SURE Trust) - Skill Upgradation for Rural youth Empowerment Trust</h3>
-
-  <!-- EDIT YOUR COURSE NAME -->
-
-  <h3 style="color: #2b6cb0; font-family: Arial;">COURSE NAME</h2>
+  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (formerly SURE Trust) 
+      </h1>
+<h2 style="color: #2b6cb0; font-family: Arial;">Skill Upgradation for Rural youth Empowerment Trust</h2>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -21,18 +19,18 @@
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch:</strong> <!--- Add your branch name---> </p>
+    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
+    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
+    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
     <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-<h2 style="color:#333;"> Course Details</h2>
+<h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Name:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
+    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> <!--- Durations in months---> </p>
@@ -43,9 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation ––></p>
-<p><strong>Trainer GitHub:</strong> <!–– Add trainer gitHub ––></p>
+<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
+<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -85,7 +82,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 </div>
 
-
 <!-- Project 1 -->
 <h3 id="project1">Project 1: <!-- Add Project Title --></h3>
 <p>
@@ -96,8 +92,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-
-
 <!-- Project 2 -->
 <h3 id="project2">Project 2: <!-- Add Project Title --></h3>
 <p>
@@ -107,8 +101,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
-
-
 
 <!-- Project 3 -->
 <h3 id="project3">Project 3: <!-- Add Project Title --></h3>
@@ -123,8 +115,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
-
-
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
@@ -132,22 +122,10 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ---
 
 
-
----
-
-
-
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-
-During the LST and SST sessions, I gained valuable technical and professional skills that strengthened my overall learning experience. The sessions helped me improve my problem-solving abilities, understand real-world applications of concepts, and build confidence in working independently.
-
-From the LST sessions, I learned how to approach tasks systematically, break down problems, and apply the right tools to complete assignments effectively. The guidance provided during these sessions helped me enhance my technical understanding and improve the quality of my project work.
-
-During the SST sessions, I developed important soft skills such as communication, teamwork, time management, and workplace discipline. These sessions helped me understand the importance of professional behavior, responsibility, and continuous learning.
-
-Overall, LST and SST together helped me grow both technically and personally, preparing me to handle projects and responsibilities more efficiently.
+> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
 
 ---
 
@@ -155,19 +133,23 @@ Overall, LST and SST together helped me grow both technically and personally, pr
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities aimed at social welfare and environmental improvement. These experiences helped me develop empathy, teamwork, and a sense of responsibility toward society.
+During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-
+<!-- add the location where you given -->
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+  
+ <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed.
+
+  <!-- add the location where you helped -->
+- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp.
+- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -191,7 +173,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
 
-
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
@@ -204,5 +185,5 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - SURE Trust
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
